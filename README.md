@@ -28,5 +28,5 @@ Python (Pandas, SQLAlchemy), PostgreSQL, SQL (Views, Auditoria), Power BI (em an
 - Análise de atraso de entrega como proxy de risco operacional
 
 ---
-**Autor:** Vinicius Dias - ADS UNIP 2º semestre | Em busca de estágio em Análise de Dados / Risco
+**Autor:** Vinicius Reis - ADS UNIP 2º semestre | Em busca de estágio em Análise de Dados / Risco
 www.linkedin.com/in/viniciusreis26 | reisv2877@gmail.com
